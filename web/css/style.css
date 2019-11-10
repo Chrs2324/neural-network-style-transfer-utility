@@ -92,3 +92,7 @@ h1{
 a:link{
     text-decoration: none;
 }
+
+.content{
+    padding-left: 40px;
+}
