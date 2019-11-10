@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding-top: 0%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 h1{
@@ -9,6 +9,7 @@ h1{
     background: -webkit-linear-gradient(rgb(250, 205, 80), rgb(255, 115, 0));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    
 }
 
 #logo{
